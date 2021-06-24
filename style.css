@@ -9,6 +9,6 @@ background:
 url("../uslugi.jpg") center no-repeat;
 -webkit-background-size: cover;
 background-size: cover;
-filter: blur(5px);
+#filter: blur(5px);
 
 }
