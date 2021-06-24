@@ -4,7 +4,7 @@ body{
 .intro{
 margin: 0 auto;
 width: 100%;
-height: 100vh;
+height: 100%;
 background:
 url("../uslugi.jpg") center no-repeat;
 -webkit-background-size: cover;
